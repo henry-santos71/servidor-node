@@ -1,0 +1,13 @@
+
+{
+  "name": "servidor-cursos",
+  "version": "1.0.0",
+  "description": "Servidor web para disponibilizar informações sobre cursos técnicos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
